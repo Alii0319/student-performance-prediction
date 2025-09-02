@@ -48,7 +48,8 @@ Predict student performance using relevant academic indicators while avoiding bi
 ## How to Run
 ```bash
 pip install pandas scikit-learn matplotlib numpy
-python student_prediction.py```
+python student_prediction.py
+```
 
 ## Results
 Model predicts student marks within 0.5 points accuracy, making it highly reliable for educational assessment.
